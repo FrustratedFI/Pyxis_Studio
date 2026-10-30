@@ -32,9 +32,6 @@
 <h2 align="center">DOWNLOAD PYXISIDE</h2>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1bOvG19Ga3R_XmVkFkXfFt4npBk3zrPlM/view?usp=sharing">
-    <img src="https://img.shields.io/badge/⬇_DOWNLOAD_PYXISIDE-Windows_Executable-8B5CF6?style=for-the-badge&labelColor=111827" alt="Download PyxisIDE for Windows">
-  </a>
   <br>
   <sub>Windows · Standalone Executable · Approximately 550 MB</sub>
 </p>
